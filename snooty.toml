@@ -1,4 +1,4 @@
-name = invalid
+name = "compass"
 
 [constants]
 version = "1.18"
